@@ -5,14 +5,15 @@ st.set_page_config(layout="wide")
 
 markdown = """
 A ground water simulation framework, assessing the status of ground water resources under the influence of climate change in *Ouémé* river in Benin.
-<https://groundwater-simulation-framework.com/>
+<https://climate-change-impact-on-ground-water-projection.streamlit.app/>
 """
+
+logo = "https://i.imgur.com/UbOXYAU.png"
+st.sidebar.image(logo)
 
 st.sidebar.title("About")
 st.sidebar.info(markdown)
 
-logo = "https://i.imgur.com/UbOXYAU.png"
-st.sidebar.image(logo)
 
 st.title("Current state VS projected ground water resources")
 col1, col2 = st.columns([4, 1])
