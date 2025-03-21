@@ -3,7 +3,7 @@ The Upper Ouémé river catchment is located in northern Benin. It is one of the
 
 The project aims to re-assess the status of groundwater resources under the influence of climate change in Upper Ouémé river catchment.
 
-Web App URL: <https://groundwaterprojection.streamlit.app>
+Web App URL: <https://climate-change-impact-on-ground-water-projection.streamlit.app/>
 
 
 ## Demo
