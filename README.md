@@ -1,16 +1,15 @@
-# streamlit-map-template
+# Ground Water Simulation Framework
+The Upper Ouémé river catchment is located in northern Benin. It is one of the sub-catchments of the biggest river basin in Benin, the Ouémé river.
 
-A streamlit template for mapping applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud).
+The project aims to re-assess the status of groundwater resources under the influence of climate change in Upper Ouémé river catchment.
 
-Web App URL: <https://map-template.streamlit.app>
+Web App URL: <https://groundwaterprojection.streamlit.app>
 
-## Instructions
-
-1. For the GitHub repository or use it as a template for your own project.
-2. Customize the sidebar by changing the sidebar text and logo in each Python file.
-3. Find your favorite emoji from https://emojipedia.org.
-4. Add a new app to the `pages/` directory with an emoji in the file name, e.g., 1_🚀_Chart.py.
 
 ## Demo
+![image](https://github.com/user-attachments/assets/10dc52f0-1762-4d24-81d1-63652a19f1b2)
 
-![](https://i.imgur.com/6lj0oAO.png)
+
+
+
+![image](https://github.com/user-attachments/assets/3cc58c62-964d-4df6-a3e9-71f54a880bac)
