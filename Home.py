@@ -11,10 +11,12 @@ A ground water simulation framework, assessing the status of ground water resour
 <https://groundwater-simulation-framework.com/>
 """
 
-st.sidebar.title("About")
-st.sidebar.info(markdown)
 logo = "https://i.imgur.com/UbOXYAU.png"
 st.sidebar.image(logo)
+
+st.sidebar.title("About")
+st.sidebar.info(markdown)
+
 
 # Customize page title
 st.title("Ground Water Simulation Framework")
